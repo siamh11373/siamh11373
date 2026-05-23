@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 30" width="720" height="30" preserveAspectRatio="xMinYMin meet">
+  <style>
+    text { font-family: 'JetBrains Mono', 'SF Mono', 'Courier New', monospace; font-size: 18px; fill: #58A6FF; }
+  </style>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="1;0;0;0;0;0;0;0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    ▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅
+  </text>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0;0;0;0;0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    ▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄
+  </text>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;0;0;0;0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    ▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃
+  </text>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;1;0;0;0;0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    ▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂
+  </text>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;1;0;0;0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    ▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁
+  </text>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;1;0;0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    ▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂
+  </text>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    ▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃
+  </text>
+  <text x="0" y="22" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;1" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    █▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄
+  </text>
+</svg>
