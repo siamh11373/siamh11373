@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███████╗██╗ █████╗ ███╗   ███╗    ██╗  ██╗ ██████╗ ███████╗███████╗ █████╗ ██╗███╗   ██╗
-██╔════╝██║██╔══██╗████╗ ████║    ██║  ██║██╔═══██╗██╔════╝██╔════╝██╔══██╗██║████╗  ██║
-███████╗██║███████║██╔████╔██║    ███████║██║   ██║███████╗███████╗███████║██║██╔██╗ ██║
-╚════██║██║██╔══██║██║╚██╔╝██║    ██╔══██║██║   ██║╚════██║╚════██║██╔══██║██║██║╚██╗██║
-███████║██║██║  ██║██║ ╚═╝ ██║    ██║  ██║╚██████╔╝███████║███████║██║  ██║██║██║ ╚████║
-╚══════╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-```
+<img src="./assets/banner.svg" alt="Siam Hossain" width="720"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=ORFE+%40+Princeton+University;Co-Founder+%40+FoodBridge+(YC+Top+10%25);Venture+Scout+%40+Embedding+VC;Quantitative+Research+%26+Algorithmic+Trading)](https://git.io/typing-svg)
 
@@ -57,12 +50,3 @@ linkedin   linkedin.com/in/siamhossain1
 portfolio  siamhossain.work
 location   Detroit, MI
 ```
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=siamh11373&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamh11373&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
-</div>
